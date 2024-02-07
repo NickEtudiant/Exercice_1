@@ -1,1 +1,2 @@
 Ceci est mon fichier1.txt, créé par Nick
+Bonjour tout le monde !
